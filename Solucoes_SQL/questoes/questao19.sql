@@ -1,0 +1,2 @@
+-- 19. Questão SQL exemplo 19
+-- Escreva a solução SQL para a questão 19 aqui.
